@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/azamatisibgatullin">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=800&center=true&vCenter=true&width=680&lines=Medical+student+%26+aspiring+physician-scientist;Regenerative+medicine+%C2%B7+Cardiovascular+genetics;Bioinformatics+%26+medical+data+science" alt="Medical student and aspiring physician-scientist" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=800&center=true&vCenter=true&width=680&lines=Medical+student+%26+aspiring+physician-scientist;Regenerative+medicine+%C2%B7+Longevity+%C2%B7+Cardiovascular+genetics;Bioinformatics+%26+medical+data+science" alt="Medical student and aspiring physician-scientist" />
   </a>
 </p>
 
@@ -16,17 +16,23 @@
 
 5th-year medical student (Specialist's degree program in Pediatrics), Faculty of
 Pediatrics, **Kazan State Medical University**. I work at the intersection of
-**medicine, genetics, and data science** — co-author of state-registered medical
-software and an aspiring physician-scientist. My goal is to turn biomedical data into
-reproducible, clinically meaningful insight.
+**medicine, genetics, and data science**, and I'm the developer and a co-author of
+state-registered medical software.
+
+> **Mission —** to extend healthy human life: regenerating tissues and organs,
+> reversing cellular aging, and preserving and reconstructing the human mind —
+> through rigorous science, genetics, and computation.
 
 ### Research interests
 
-**Clinical & biomedical**
+**Regenerative & longevity medicine** *(primary focus)*
+- 🌱 Tissue engineering & stem-cell–based repair of tissues and organs
+- ⏳ Reversing cellular aging and degeneration — healthy-lifespan extension
+- 🧠 Regeneration of the nervous system and the brain
+
+**Cardiovascular & genetics**
 - 🫀 Cardiovascular genetics & early vascular aging
 - 🧬 Hereditary dyslipidemias & lipid metabolism
-- 👶 Pediatric cardiology
-- 🌱 Regenerative medicine
 
 **Computational**
 - 🧠 Computational neuroscience — non-invasive reconstruction of the brain's computational organization and functionally-equivalent whole-brain models
@@ -39,15 +45,15 @@ reproducible, clinically meaningful insight.
 
 Software for collecting, storing, and analyzing data on families with hereditary
 disorders of lipid metabolism: building pedigree links and structuring genetic and
-clinical data. Developed at **Kazan State Medical University** within a research grant
-on vascular remodeling and early vascular aging syndrome in genetic and secondary
-dyslipidemias. Co-author (1 of 7) — contributed to the concept, architecture, and
-functional design, and presented the project at the KSMU startup accelerator.
+clinical data. **Sole developer** — I wrote the entire codebase (and am one of 7
+registered authors). Developed at **Kazan State Medical University** within a research
+grant on vascular remodeling and early vascular aging syndrome in genetic and secondary
+dyslipidemias; presented at the KSMU startup accelerator.
 
 ### Achievements
 
 - 🏅 **2nd-degree Diploma** — XII International Youth Scientific Medical Forum *"Belye Tsvety" (White Flowers)*, 99th International Student Scientific Conference "Modern Aspects in Medical Microbiology", Kazan, April 2025
-- 📜 Co-author of the state-registered medical software *LipoGen* (Rospatent No. 2025691322, 2025)
+- 📜 Developer & co-author of the state-registered medical software *LipoGen* (Rospatent No. 2025691322, 2025)
 
 ### Tech & tools
 
@@ -70,7 +76,7 @@ functional design, and presented the project at the KSMU startup accelerator.
 
 ---
 
-> 🤝 **Open to research collaborations** in cardiovascular genetics, biomedical data science, and computational biology.
+> 🤝 **Open to research collaborations** in regenerative & longevity medicine, cardiovascular genetics, and biomedical data science.
 
 ### Contact
 
