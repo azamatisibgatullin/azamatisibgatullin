@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/azamatisibgatullin">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=800&center=true&vCenter=true&width=680&lines=Medical+student+%26+aspiring+physician-scientist;Regenerative+medicine+%C2%B7+Longevity+%C2%B7+Cardiovascular+genetics;Bioinformatics+%26+medical+data+science" alt="Medical student and aspiring physician-scientist" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3500&pause=800&center=true&vCenter=true&width=720&lines=Medical+student+%26+aspiring+physician-scientist;Regenerative+%26+longevity+medicine;Cardiovascular+genetics+%C2%B7+Bioinformatics" alt="Medical student and aspiring physician-scientist" />
   </a>
 </p>
 
