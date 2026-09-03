@@ -34,12 +34,6 @@ biomedical data into reproducible insight.
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
-### GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=azamatisibgatullin&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" height="165" alt="GitHub stats" />
-</p>
-
 ### Contact
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/AzamatSibgatullin)
